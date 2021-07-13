@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesDatails", "EmployeesDatails.csproj", "{E8645BEA-21B8-4BA4-A275-7534F39E61DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8645BEA-21B8-4BA4-A275-7534F39E61DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8645BEA-21B8-4BA4-A275-7534F39E61DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8645BEA-21B8-4BA4-A275-7534F39E61DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8645BEA-21B8-4BA4-A275-7534F39E61DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3EF123F-C429-4186-A644-B089EFAA61BF}
+	EndGlobalSection
+EndGlobal

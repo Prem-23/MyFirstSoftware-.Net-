@@ -1,0 +1,10 @@
+C:\Users\premk\source\repos\EmployeesDatails\bin\Debug\EmployeesDatails.exe.config
+C:\Users\premk\source\repos\EmployeesDatails\bin\Debug\EmployeesDatails.exe
+C:\Users\premk\source\repos\EmployeesDatails\bin\Debug\EmployeesDatails.pdb
+C:\Users\premk\source\repos\EmployeesDatails\obj\Debug\EmployeesDatails.csproj.AssemblyReference.cache
+C:\Users\premk\source\repos\EmployeesDatails\obj\Debug\EmployeesDatails.Form1.resources
+C:\Users\premk\source\repos\EmployeesDatails\obj\Debug\EmployeesDatails.Properties.Resources.resources
+C:\Users\premk\source\repos\EmployeesDatails\obj\Debug\EmployeesDatails.csproj.GenerateResource.cache
+C:\Users\premk\source\repos\EmployeesDatails\obj\Debug\EmployeesDatails.csproj.CoreCompileInputs.cache
+C:\Users\premk\source\repos\EmployeesDatails\obj\Debug\EmployeesDatails.exe
+C:\Users\premk\source\repos\EmployeesDatails\obj\Debug\EmployeesDatails.pdb
